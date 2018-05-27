@@ -1,7 +1,3 @@
-# myGit
-juest test
+My Project
 
-add something new here 
-
-------------
-here are someting new from branch lalala
+add something new from terminal 
